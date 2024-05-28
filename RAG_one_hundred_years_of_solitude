@@ -1035,7 +1035,7 @@
     "from transformers.utils import is_flash_attn_2_available \n",
     "from huggingface_hub import login\n",
     "\n",
-    "login(token='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')\n",
+    "login(token='ACCESS_TOKEN')\n",
     "\n",
     "book_by_chunks_df = pd.read_pickle(\"/kaggle/working/book_by_chunks.pkl\")\n",
     "\n",
