@@ -56,6 +56,4 @@ This project utilizes the following open-source models and libraries:
 - Google's GEMMA and FLAN-T5 Models
 - FAISS
 
-## License
-This project is licensed under the MIT License.
 
